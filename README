@@ -1,8 +1,15 @@
               Integration of Imgur API with Markdown Editor
      
 This project aims at the integration of Imgur API with the Markdown Editor js files for the purpose of uploading and hosting images online.
-Like demonstration can be seen at the http://www.mycareerstack.com/forum/new
+
+
+
+Things to remember:
+1. This provides Imgur anonymous API integration with online editor.
+2. Get your Anonymous key from imgur.com to put at the appropriate place in Mardown.Editor.js.
+3. This also provides form generation modified to incorporate the image upload feature.
        
 
-
+Example:
+Like demonstration can be seen at the http://www.mycareerstack.com/forum/new
 
